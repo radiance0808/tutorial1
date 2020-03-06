@@ -18,7 +18,7 @@ namespace Tutorial1
             //    Console.WriteLine($"I am {age} years old");
             //    Console.WriteLine("Hello World!");
 
-            var url = @"https://pja.edu.pl/dziekanat";
+            var url = @"https://pja.edu.pl/";
 
             using (var httpClient = new HttpClient())
             {
